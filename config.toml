@@ -2,6 +2,7 @@ baseurl      = "localhost"
 title        = "cyber caveman's blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
+themesDir = "themes"
 paginate     = 10
 
 [params]
