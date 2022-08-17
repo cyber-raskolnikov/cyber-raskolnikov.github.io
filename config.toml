@@ -1,8 +1,8 @@
-baseurl      = "localhost"
+baseurl      = "https://cyber-raskolnikov.github.io"
 title        = "cyber caveman's blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-themesDir = "themes"
+themesDir    = "themes"
 paginate     = 10
 
 [params]
@@ -21,7 +21,7 @@ paginate     = 10
   enableSharingButtons = false
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "blog"
   keywords = "homepage, blog"
   images = [""]
 
